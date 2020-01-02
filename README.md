@@ -1,4 +1,4 @@
-### How to be a great Designer - Part 02
+### How to be a great UX Designer - Part 02
 **Part 01 -** Menginstal Adobe XD
 
 - Pergi ke https://www.adobe.com/in/products/xd.html
