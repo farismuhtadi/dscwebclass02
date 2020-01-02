@@ -8,5 +8,5 @@
 
 **Part 02 -** Mendownload Bootstrap Material Design untuk Adobe XD
 
-- Download materialnya di intip.in/bootstrapmd
+- Download materialnya di https://www.intip.in/bootstrapmd
 - Buka menggunakan Adobe XD dan gunakan untuk bahan desain
