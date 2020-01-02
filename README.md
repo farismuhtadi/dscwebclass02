@@ -8,7 +8,7 @@
 
 **Preparation 02 -** Mendownload Material Design untuk Adobe XD
 
-- Download materialnya di https://www.intip.in/bootstrapmd
+- Download materialnya di https://intip.in/dscwebclass
 - Buka menggunakan Adobe XD dan gunakan untuk bahan desain
 
 **Preparation 03 -** Membawa Kabel olor/stop kontak
