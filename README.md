@@ -12,4 +12,4 @@
 - Buka menggunakan Adobe XD dan gunakan untuk bahan desain
 
 **Preaparation 03 -** Bawa kabel olor/stop kontak
-- Laptop yang sehat membutuhkan asupan gizi untuk hidup  :)
+- Laptop yang sehat membutuhkan asupan gizi untuk hidup, jangan lupa bawa kabel olor/stop kontak ya :)
